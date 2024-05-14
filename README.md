@@ -35,8 +35,8 @@
 ### Output:
 
 ![alt text](doorstopper.jpg)
-### Name:JOTHIKRISHNAA V
-### Register Number:212223100017
+### Name:BHUVAESH S R
+### Register Number:212223240017
 
 ## RESULT:
 ###   Thus the given product is reverse engineered and prototyped using 3D Printer.
